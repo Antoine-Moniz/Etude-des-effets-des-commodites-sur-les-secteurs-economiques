@@ -3,6 +3,8 @@
 
 Ce projet vise à modéliser et analyser les relations entre l'évolution des prix des matières premières et les performances de trois secteurs économiques majeurs (financier, technologique, immobilier) représentés par des indices S&P. L'objectif est de mieux comprendre les interactions entre ces variables à l'aide de techniques économétriques avancées, incluant la modélisation univariée et multivariée.
 
+Les données sont extraitent de Bloomberg.
+
 ## Objectifs du Projet
 
 1. Identifier les relations dynamiques entre les prix des matières premières et les performances des secteurs.
